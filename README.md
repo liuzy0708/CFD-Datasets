@@ -1,4 +1,4 @@
-# Compound-fault-diagnosis-dataset-of-rotating-machinery
+# Compound fault diagnosis dataset of rotating machinery
 
 **Description**: The experimental data is collected from a realistic large-scale rotating machinery fault diagnosis experimental platform. The test rig is utilized in Guangdong Province Key Laboratory for petrochemical equipment fault diagnosis. Initial vibration signals are obtained by sensors installed on the gearbox with a US CTC accelerometer mounted vertically on the gearbox. In detail, it is a centrifugal multi-stage impeller blower with crucial components such as a three-phase induction motor, gearbox, bearing, load, and shaft. In addition, gear wheels and pinions are engaged and abrade mutually inside the gearbox.
 
