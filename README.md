@@ -27,3 +27,11 @@
 **The schematic diagram of the utilized test rig:**
 
 <img width="530" alt="platform" src="https://user-images.githubusercontent.com/115722686/195636988-4477e226-16f5-4215-8601-febda5109235.png">
+
+**The description of parameters:**
+
+- chip: Data collection channel 
+- time: Specific sample time
+- wave: Collected vibration signal
+
+The equipment is supported by *Guangdong Province Key Laboratory for petrochemical equipment fault diagnosis*.
