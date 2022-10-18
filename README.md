@@ -31,7 +31,6 @@
 **The description of parameters:**
 
 - chip: Data collection channel 
-- time: Specific sample time
 - wave: Collected vibration signal
 
 The equipment is supported by *Guangdong Province Key Laboratory for petrochemical equipment fault diagnosis*.
