@@ -1,5 +1,7 @@
 # Compound Fault Diagnosis Dataset of Rotating Machinery
 
+![platform](https://user-images.githubusercontent.com/115722686/195636988-4477e226-16f5-4215-8601-febda5109235.png)
+
 ## Overview
 
 This repository provides experimental data collected from a realistic large-scale rotating machinery fault diagnosis experimental platform. The dataset aims to facilitate research and development in the field of fault diagnosis for rotating machinery. The experimental setup includes a centrifugal multi-stage impeller blower with various fault conditions simulated in different data folds.
@@ -22,10 +24,6 @@ The experimental data is collected from a realistic large-scale rotating machine
 ## Utilized Test Rig:
 
 ![photo](https://user-images.githubusercontent.com/115722686/195637306-ac88470b-9b61-45de-89aa-a94cfed8cfa8.png)
-
-## Schematic Diagram of the Utilized Test Rig:
-
-![platform](https://user-images.githubusercontent.com/115722686/195636988-4477e226-16f5-4215-8601-febda5109235.png)
 
 ## Parameters Description:
 
