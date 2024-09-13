@@ -85,3 +85,6 @@ For any inquiries or questions regarding the dataset, please contact [liuzy21@ma
 
 The dataset is supported by the Guangdong Province Key Laboratory for Petrochemical Equipment Fault Diagnosis.
 We extend our sincere gratitude to our THUFDD Group, led by Prof. Xiao He and Prof. Donghua Zhou, for their invaluable support and contributions to the development of this scheme.
+
+## Views
+![](http://profile-counter.glitch.me/CFD-Datasets/count.svg)
